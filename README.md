@@ -2,13 +2,11 @@
 
 Сайт предлагает сервис выдачи рецептов по приготовлению блюд и планированию рациона.
 
-Ознакомиться можно по [ссылке](https://foodplan.jmuriki.space).
-
 ## Запуск в режиме разработчика
 
 - Скачайте код
 ```bash
-git clone https://github.com/jmuriki/FoodPlan.git
+git clone https://github.com/mivanov06/FoodPlan.git
 cd FoodPlan
 ```
 
